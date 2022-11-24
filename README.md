@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/ezequielgiannoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco-lamberti" height="30" width="40" /></a>
 
 <h3>Technologies</h3>
+
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -46,7 +47,7 @@ You can click the Preview link to take a look at your changes.
     </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+
 
 <!--
 **Giannoni-Ezequiel/Giannoni-Ezequiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
