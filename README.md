@@ -5,25 +5,6 @@
 - 🌱 I’m currently learning C#, JavaScript, SQL server.
 - 📫 How to reach me egiannoni95@gmail.com
 
-<canvas width="300" height="200"></canvas>
-
-<script>
-    var pantalla = document.querySelector("canvas");
-    var pincel = pantalla.getContext("2d");
-    //cabeza
-    pincel.fillStyle = 'darkgreen';
-    pincel.fillRect(100, 25, 175 ,150);
-    //ojos
-    pincel.fillStyle = 'black';
-    pincel.fillRect(125, 55, 45, 45);
-    pincel.fillRect(205, 55, 45, 45);
-    //nariz
-    pincel.fillRect(170, 100, 35, 50);
-     //boca
-    pincel.fillRect(150, 120, 20, 55);
-    pincel.fillRect(205, 120, 20, 55);
-</script>
-
 <!---
 ezequielgiannoni/ezequielgiannoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
