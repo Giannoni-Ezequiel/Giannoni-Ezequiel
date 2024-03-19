@@ -1,8 +1,8 @@
 <h3>About Me</h3>
 
 - 👋 Hi, I’m Giannoni Ezequiel.
-- 👀 I’m interested in IoT, Apps & Design.
-- 🌱 I’m currently learning Java, JavaScript, SQL server.
+- 👀 I’m interested in IoT, Mobile Apps & Design UX/UI.
+- 🌱 I’m currently learning C.
 - 📫 How to reach me egiannoni95@gmail.com
 
 <!---
