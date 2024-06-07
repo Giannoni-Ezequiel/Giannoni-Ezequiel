@@ -1,7 +1,7 @@
 <h3>About Me</h3>
 
 - 👋 Hi, I’m Giannoni Ezequiel.
-- 👀 I’m interested in IoT, Mobile Apps & Design UX/UI.
+- 👀 I’m interested in IoT, Mobile Apps.
 - 🌱 I’m currently learning C.
 - 📫 How to reach me egiannoni95@gmail.com
 
