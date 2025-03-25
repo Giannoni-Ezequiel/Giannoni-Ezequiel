@@ -1,8 +1,8 @@
 <h3>About Me</h3>
 
 - 👋 Hi, I’m Giannoni Ezequiel.
-- 👀 I’m interested in IoT, Mobile Apps.
-- 🌱 I’m currently learning C.
+- 👀 I’m interested in IoT.
+- 🌱 I’m currently learning Haskell.
 - 📫 How to reach me egiannoni95@gmail.com
 
 <!---
